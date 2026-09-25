@@ -1,0 +1,6 @@
+{
+  "name": "BatchBox Bakery Ops",
+  "description": "Enterprise bulk order creation, item allocation, and box packaging engine for commercial bakeries and catering operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
